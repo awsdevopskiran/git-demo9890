@@ -1,1 +1,2 @@
-new file2.txt is added
+new file2.txt is adde
+this is kiran rathod working as devops engineer in one of the leading ornisation of india sice
