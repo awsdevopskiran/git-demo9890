@@ -1,1 +1,2 @@
 new file demo10.txt is created
+new file is added in the demo10.txt
